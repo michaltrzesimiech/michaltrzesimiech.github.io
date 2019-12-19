@@ -127,7 +127,7 @@ So what’s holding Europe back? Looking through some of the information publish
 
 <br>
 
-It comes to mind that these lie beyond the causative power of individual citizens and technologists, but, perhaps, not beyond that of civil society. Citizens should expect that technology, which brought Europe unicorns like TransferWise and Bolt, will bring a similar level of service in doing business with governments.
+It comes to mind that these lie beyond the causative power of technologists as individual citizens, but, perhaps, not beyond that of civil society. Citizens should expect that technology, which brought Europe unicorns like TransferWise and Bolt, will bring a similar level of service in doing business with governments.
 
 Similarly, citizens should expect technologists to further democratize technology, so that it can be used _democratically_, to bridge the gap between everyday people and the technocratic elites. When the barrier to entry is lowered, what is expected to follow is more digital skills and awareness. The more public awareness and media literacy we get, the safer we are, and the more sense of empowerment we’re able to share as European citizens.
 
