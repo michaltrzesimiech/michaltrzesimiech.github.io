@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://michaltrzesimiech.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://michaltrzesimiech.github.io//" rel="alternate" type="text/html" /><updated>2019-12-19T19:48:27+01:00</updated><id>https://michaltrzesimiech.github.io//feed.xml</id><title type="html">Michal Trzesimiech</title><subtitle>My thoughts on doing good, management and technology. Illustrated with lots of charts.</subtitle><entry><title type="html">Exploring ways to make technology work for democracy in Europe</title><link href="https://michaltrzesimiech.github.io//2019/12/18/technology-for-democracy-in-europe.html" rel="alternate" type="text/html" title="Exploring ways to make technology work for democracy in Europe" /><published>2019-12-18T09:14:39+01:00</published><updated>2019-12-18T09:14:39+01:00</updated><id>https://michaltrzesimiech.github.io//2019/12/18/technology-for-democracy-in-europe</id><content type="html" xml:base="https://michaltrzesimiech.github.io//2019/12/18/technology-for-democracy-in-europe.html">&lt;p&gt;The future of Europe is written across its fragmented datasets. Eighty-nine percent of European households use and produce data while on the Internet&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, most on a daily basis&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Putting that to good use is among the most ambitious challenges of our age. Coming to agree on what’s “good” is the role of a technology that’s long under construction—democracy itself.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-disconnected-europe&quot;&gt;The disconnected Europe&lt;/h2&gt;
+
+&lt;p&gt;“Like electricity in the past, artificial intelligence (AI) is transforming our world.” declares the opening sentence of the EU’s “Coordinated Plan on Artificial Intelligence”&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. “The Commission […] encourages the use of this powerful technology to help solve the world’s biggest challenges: from curing diseases to fighting climate change and anticipating natural disasters, to making transport safer and fighting crime and improving cybersecurity.”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;There are applications of AI in development for each of those challenges and more, all over the world, and Europe is not leading the way. In fact, it’s mostly falling behind the US and China, missing out on “a significant source of potential new economic dynamism”&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and adding to it’s already existing digital gap. It’s captured digital potential&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; is estimated at 12%&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; —two-thirds of the potential captured by the United States&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;And yet, “if Europe develops and diffuses AI according to its current assets and digital position relative to the world it could add some €2.7 trillion, or 20 percent, to its combined economy output […] through 2030”, we read in a McKinsey report. “Such an impact would be roughly double that of other general-purpose technologies adopted by developed countries in the past.”&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Among European countries, the first to clarify their goal of becoming Europe’s prime location for AI research was Finland (in partnership with bordering Estonia and Sweden)&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; in 2017. Soon, it was followed by Denmark&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;, Italy&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;, France&lt;sup id=&quot;fnref:13&quot;&gt;&lt;a href=&quot;#fn:13&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;, the UK&lt;sup id=&quot;fnref:14&quot;&gt;&lt;a href=&quot;#fn:14&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt;, Sweden&lt;sup id=&quot;fnref:15&quot;&gt;&lt;a href=&quot;#fn:15&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt;, and Germany&lt;sup id=&quot;fnref:16&quot;&gt;&lt;a href=&quot;#fn:16&quot; class=&quot;footnote&quot;&gt;16&lt;/a&gt;&lt;/sup&gt;. In fall 2018, the previously quoted plan was announced by the European Commission, following Communication on Artificial Intelligence for Europe&lt;sup id=&quot;fnref:17&quot;&gt;&lt;a href=&quot;#fn:17&quot; class=&quot;footnote&quot;&gt;17&lt;/a&gt;&lt;/sup&gt; in April that same year.&lt;/p&gt;
+
+&lt;p&gt;One of the many needs of this emerging ecosystem is that of cooperation on the international level. But that is yet to take shape, judged, at least, by how the plan to build a joint AI research centre has failed&lt;sup id=&quot;fnref:18&quot;&gt;&lt;a href=&quot;#fn:18&quot; class=&quot;footnote&quot;&gt;18&lt;/a&gt;&lt;/sup&gt;, not even a year since the Commission’s plan was published.&lt;/p&gt;
+
+&lt;p&gt;To illustrate: as France, a party to that failed project, invests 1.5 billion euro in AI over the next five years, China’s ambition is to invest as much as 150 billion dollars by 2030.&lt;/p&gt;
+
+&lt;p&gt;And its idea of what’s good use of data is different than European.&lt;/p&gt;
+
+&lt;h2 id=&quot;dark-clouds&quot;&gt;Dark clouds&lt;/h2&gt;
+
+&lt;p&gt;There’s no shortage of challenges on the intersection of technology and the public sphere. Take the Russian interference in the 2016 US presidential elections, when 115 pro-Trump fake stories were shared on Facebook a total of 30 million times. The result for the 41 pro-Clinton fake stories was: 7.6 million “shares”&lt;sup id=&quot;fnref:19&quot;&gt;&lt;a href=&quot;#fn:19&quot; class=&quot;footnote&quot;&gt;19&lt;/a&gt;&lt;/sup&gt;. It’s debated whether this could have had a pivotal role in the election of President Trump. That’s but a single thread in the continuous campaign of online influence and social manipulation&lt;sup id=&quot;fnref:20&quot;&gt;&lt;a href=&quot;#fn:20&quot; class=&quot;footnote&quot;&gt;20&lt;/a&gt;&lt;/sup&gt;, affecting more than elections only&lt;sup id=&quot;fnref:21&quot;&gt;&lt;a href=&quot;#fn:21&quot; class=&quot;footnote&quot;&gt;21&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our susceptibility to fake news is rooted deeper in human bias&lt;sup id=&quot;fnref:22&quot;&gt;&lt;a href=&quot;#fn:22&quot; class=&quot;footnote&quot;&gt;22&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:23&quot;&gt;&lt;a href=&quot;#fn:23&quot; class=&quot;footnote&quot;&gt;23&lt;/a&gt;&lt;/sup&gt; than in computer software. It’s amplified by technology, though, and so a part of its domain.
+It works as a reward to have our prior beliefs confirmed. Our brains crave the reward, not the uneasy truth. There’s a demand for that, and so there are those who cash in on it, selling us half-truths or straight lies. And we have no easy ways to filter lies out on the scale of the whole Internet (there’s too much of linguistic nuisance to write a rule for it). Someone has to play the role of the arbiter of truth.&lt;/p&gt;
+
+&lt;p&gt;Mark Zuckerberg, during the much talked about congressional hearings in 2018 referred to AI more than thirty times in ten hours, saying that it will “one day be smart, sophisticated and eagle-eyed enough to fight against a vast variety of platform-spoiling misbehavior, including fake news, hate speech, discriminatory ads and terrorist propaganda”&lt;sup id=&quot;fnref:24&quot;&gt;&lt;a href=&quot;#fn:24&quot; class=&quot;footnote&quot;&gt;24&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;It likely won’t happen soon&lt;sup id=&quot;fnref:25&quot;&gt;&lt;a href=&quot;#fn:25&quot; class=&quot;footnote&quot;&gt;25&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:26&quot;&gt;&lt;a href=&quot;#fn:26&quot; class=&quot;footnote&quot;&gt;26&lt;/a&gt;&lt;/sup&gt;, but if it could—would we understand the solution enough to outsource our judgement to it in a hurry (would the source of it even be open to us)? Should we let Facebook alone decide if the solution is good enough? Who should ensure the safety of it in our hyperconnected world?&lt;/p&gt;
+
+&lt;p&gt;Three years after the feral 2016, it’s ever harder to find truth in an increasingly polarized and hyperpartisan infosphere&lt;sup id=&quot;fnref:27&quot;&gt;&lt;a href=&quot;#fn:27&quot; class=&quot;footnote&quot;&gt;27&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:28&quot;&gt;&lt;a href=&quot;#fn:28&quot; class=&quot;footnote&quot;&gt;28&lt;/a&gt;&lt;/sup&gt;, yet the legal and technological solutions are still to be found. And since attempts at exploiting our flaws for political and financial benefits are unlikely to stop tomorrow&lt;sup id=&quot;fnref:29&quot;&gt;&lt;a href=&quot;#fn:29&quot; class=&quot;footnote&quot;&gt;29&lt;/a&gt;&lt;/sup&gt;, these problems already follow us into the new decade.&lt;/p&gt;
+
+&lt;p&gt;As the discussion shifts towards truth decay and attacks on electoral integrity&lt;sup id=&quot;fnref:30&quot;&gt;&lt;a href=&quot;#fn:30&quot; class=&quot;footnote&quot;&gt;30&lt;/a&gt;&lt;/sup&gt;, it’s important to remember that beyond these ails lay many more within the connected domains of AI governance and the increasingly militarised and weaponised&lt;sup id=&quot;fnref:31&quot;&gt;&lt;a href=&quot;#fn:31&quot; class=&quot;footnote&quot;&gt;31&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:32&quot;&gt;&lt;a href=&quot;#fn:32&quot; class=&quot;footnote&quot;&gt;32&lt;/a&gt;&lt;/sup&gt; cybersecurity.&lt;/p&gt;
+
+&lt;p&gt;In the words of Bruce Schneier, cybersecurity expert and privacy specialist: “Technology is now deeply intertwined with policy. We’re building complex socio-technical systems at all levels of our society. Software constrains behaviour with an efficiency that no law can match. It’s all changing fast; technology is literally creating the world we all live in, and policymakers can’t keep up. Getting it wrong has become increasingly catastrophic. Surviving the future depends on bringing technologists and policymakers together.”&lt;sup id=&quot;fnref:33&quot;&gt;&lt;a href=&quot;#fn:33&quot; class=&quot;footnote&quot;&gt;33&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;For a model example of how an everyday situation might morph into one we’d prefer to prevent, do recall the 2007 situation in Estonia, where an army of sophisticated botnets was deployed together with a new virus, and specific routers were targeted for attack to aid the riots taking place in the streets of Tallinn after a soviet memorial was moved out of the city centre.&lt;/p&gt;
+
+&lt;p&gt;Despite tracing the attacks back to Russian IP addresses, blaming the government alone wouldn’t allow to capture the whole story&lt;sup id=&quot;fnref:34&quot;&gt;&lt;a href=&quot;#fn:34&quot; class=&quot;footnote&quot;&gt;34&lt;/a&gt;&lt;/sup&gt;. An anonymous Estonian government official was quoted to say that the attack “was orchestrated by the Kremlin, and malicious gangs then seized the opportunity to join in and do their own bit to attack Estonia”&lt;sup id=&quot;fnref:35&quot;&gt;&lt;a href=&quot;#fn:35&quot; class=&quot;footnote&quot;&gt;35&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Boundaries don’t apply to cyber threats in the same way they apply to conventional conflict. Tallinn, Kiev, Berlin, and Brussels are each within the range of cyber attack, no matter whether it’s orchestrated by criminal networks, or state actors—from Moscow or anywhere else on the cloud.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, across the whole of the European Union, investment in this space is “low and fragmented”&lt;sup id=&quot;fnref:36&quot;&gt;&lt;a href=&quot;#fn:36&quot; class=&quot;footnote&quot;&gt;36&lt;/a&gt;&lt;/sup&gt;. “The Commission itself has assessed that coordination in general is still insufficient. […] ”&lt;sup id=&quot;fnref:37&quot;&gt;&lt;a href=&quot;#fn:37&quot; class=&quot;footnote&quot;&gt;37&lt;/a&gt;&lt;/sup&gt;, we read in the 2019 briefing paper from the European Court of Auditors. “Digital systems have become so complex that preventing all attacks is impossible. Responding to this challenge is rapid detection and response. However, cybersecurity is not yet fully integrated into existing EU-level crisis response coordination mechanisms, potentially limiting the EU’s capacity to respond to large-scale, crossborder cyber incidents”&lt;sup id=&quot;fnref:38&quot;&gt;&lt;a href=&quot;#fn:38&quot; class=&quot;footnote&quot;&gt;38&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The question we should start asking is not whether democracy could “&lt;a href=&quot;https://www.nytimes.com/2018/03/22/opinion/democracy-survive-data.html&amp;amp;sa=D&amp;amp;ust=1576773540253000&quot;&gt;survive data&lt;/a&gt;”&lt;sup id=&quot;fnref:39&quot;&gt;&lt;a href=&quot;#fn:39&quot; class=&quot;footnote&quot;&gt;39&lt;/a&gt;&lt;/sup&gt;, or whether it should be “&lt;a href=&quot;https://www.ft.com/content/5c012980-84fd-11e8-a29d-73e3d454535d&amp;amp;sa=D&amp;amp;ust=1576773540254000&quot;&gt;protected from it&lt;/a&gt;”&lt;sup id=&quot;fnref:40&quot;&gt;&lt;a href=&quot;#fn:40&quot; class=&quot;footnote&quot;&gt;40&lt;/a&gt;&lt;/sup&gt;. Rather: can democracy survive without data literacy and learning to use data for the benefit of itself?&lt;/p&gt;
+
+&lt;h2 id=&quot;connecting-the-dots&quot;&gt;Connecting the dots&lt;/h2&gt;
+
+&lt;p&gt;Beyond the broad economic opportunity (the previously speculated €2.7 trillion by 2030) and the necessity to step up Europe’s game on cyberdefense and relevant regulation&lt;sup id=&quot;fnref:41&quot;&gt;&lt;a href=&quot;#fn:41&quot; class=&quot;footnote&quot;&gt;41&lt;/a&gt;&lt;/sup&gt; there are new technologies ready to augment the public sector, too. From process automation, virtual assistants, smart workflows to language processing and machine learning, early experiments are taking place across governments&lt;sup id=&quot;fnref:42&quot;&gt;&lt;a href=&quot;#fn:42&quot; class=&quot;footnote&quot;&gt;42&lt;/a&gt;&lt;/sup&gt;. The pace of it is far from brisk, though.&lt;/p&gt;
+
+&lt;p&gt;“Government should benchmark its adoption and deployment of AI against similar industries in the private sector, such as finance, banking and other financial services”—says Rick Howard, vice president of research at Gartner—”but when you look at the top performers in those fields, 15 percent have made significant investments […] versus just 2 percent in government.”&lt;sup id=&quot;fnref:43&quot;&gt;&lt;a href=&quot;#fn:43&quot; class=&quot;footnote&quot;&gt;43&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;What’s bad about this is that we seem to be missing out on a number of opportunities. Some are as basic as automating trivial tasks to shorten processing time (think of sending out receipts, reminders, etc.). Others, such as the use of predictive analytics to pre-empt problems, are more audacious and complex. Each is built on top of the broader promise of GovTech: that of strengthening trust in public institutions and broadening participation by lowering the transactional cost.&lt;/p&gt;
+
+&lt;p&gt;Perhaps it’s the potential to engage and communicate with citizens that’s put to waste most visibly. The power of Tweeter as used by the people in power, is obvious. But how many stories we miss by not hearing the other end of President Trump’s tweets at scale? Mining social media for sentiment and opinion gives hope to shorten feedback loops like never before. It’s just a single example of how present-day technology could aim to strengthen democracy. We’re paying too little attention to that.&lt;/p&gt;
+
+&lt;p&gt;​    So what’s holding Europe back? Looking through some of the information published in the last few years, most of the reasons seem to fall into these four broad categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fragmented regulatory environment and the lack of single market&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;​    While the data stores are scattered across multiple jurisdictions, the myriad of rules and regulations limits entrepreneurial efforts (and weakens Europe’s defense against cyber threats).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Unfriendly infrastructure and procurement processes&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Legacy software and painfully inefficient paperwork act as a powerful deterrent to entrepreneurs. The processing pace is promised to go up along with automation. As long-term software contracts expire, a window of opportunity opens to modern architectures.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Institutional inertia and/or bad allocation of funds&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s the very data analysis tools that could inform better decisions on the allocation of public funds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lack of statistical awareness and tool experience among analysts&lt;/strong&gt;&lt;sup id=&quot;fnref:44&quot;&gt;&lt;a href=&quot;#fn:44&quot; class=&quot;footnote&quot;&gt;44&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks to the practice of human-centered design and current-day approach to data visualisation, stats tools are increasingly more accessible to users without prior experience or advanced training.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+It’s striking that most of these reasons lie well beyond the causative power of outside technologists. Or, rather: mostly within their powers as regular citizens, as citizens should demand that the rulers are somewhat resourceful in ruling the ruled. Citizens should expect that technology, which brought Europe unicorns like TransferWise and Bolt, will bring a similar level of service in doing business with governments.&lt;/p&gt;
+
+&lt;p&gt;Similarly, citizens should expect technologists to further democratize technology, so that it can be used &lt;em&gt;democratically&lt;/em&gt;, to bridge the gap between everyday people and the technocratic elites. When the barrier to entry is lowered, what is expected to follow is more digital skills and awareness. The more public awareness and media literacy we get, the safer we are, and the more sense of empowerment we’re able to share as European citizens.&lt;/p&gt;
+
+&lt;p&gt;We need technology to give us a sense of renewed strength in the decades to come, and to give us a strong, democratic narrative to counter the spread of digital authoritarianism. We need a “common democratic strategy”&lt;sup id=&quot;fnref:45&quot;&gt;&lt;a href=&quot;#fn:45&quot; class=&quot;footnote&quot;&gt;45&lt;/a&gt;&lt;/sup&gt; to help democracies to learn from one another about effective approaches to face the emerging threats. We need to get technologists and policy-makers closer together, for the sake of our security and welfare, and for the sake of mature, sustainable development.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&amp;amp;sa=D&amp;amp;ust=1576773540265000&quot;&gt;https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals%23Internet_usage&amp;amp;sa=D&amp;amp;ust=1576773540262000&quot;&gt;https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;This comparison was used before in Andrew Ng’s 2016 speech at Stanford MSx Future Forum. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artificial-intelligence&amp;amp;sa=D&amp;amp;ust=1576773540262000&quot;&gt;https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artificial-intelligence&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&amp;amp;sa=D&amp;amp;ust=1576773540266000&quot;&gt;https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;defined as weighted deployment of digital assets, labor, and practices across all sectors, compared with the most digitized sector &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&amp;amp;sa=D&amp;amp;ust=1576773540267000&quot;&gt;https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&amp;amp;sa=D&amp;amp;ust=1576773540271000&quot;&gt;https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai%23part3&amp;amp;sa=D&amp;amp;ust=1576773540270000&quot;&gt;https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.politico.eu/article/finland-one-percent-ai-artificial-intelligence-courses-learning-training/&amp;amp;sa=D&amp;amp;ust=1576773540268000&quot;&gt;https://www.politico.eu/article/finland-one-percent-ai-artificial-intelligence-courses-learning-training/&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:11&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://eng.em.dk/media/10566/digital-growth-strategy-report_uk_web-2.pdf&quot;&gt;https://eng.em.dk/media/10566/digital-growth-strategy-report_uk_web-2.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:12&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://ia.italia.it/assets/whitepaper.pdf&quot;&gt;https://ia.italia.it/assets/whitepaper.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:13&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.aiforhumanity.fr&quot;&gt;https://www.aiforhumanity.fr&lt;/a&gt; &lt;a href=&quot;#fnref:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:14&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/artificial-intelligence-sector-deal/ai-sector-deal&quot;&gt;https://www.gov.uk/government/publications/artificial-intelligence-sector-deal/ai-sector-deal&lt;/a&gt; &lt;a href=&quot;#fnref:14&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:15&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.government.se/491fa7/contentassets/fe2ba005fb49433587574c513a837fac/national-approach-to-artificial-intelligence.pdf&quot;&gt;https://www.government.se/491fa7/contentassets/fe2ba005fb49433587574c513a837fac/national-approach-to-artificial-intelligence.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:15&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:16&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ki-strategie-deutschland.de/home.html?file=files/downloads/Nationale_KI-Strategie_engl.pdf&quot;&gt;https://www.ki-strategie-deutschland.de/home.html?file=files/downloads/Nationale_KI-Strategie_engl.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:16&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:17&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://ec.europa.eu/digital-single-market/en/news/communication-artificial-intelligence-europe&quot;&gt;https://ec.europa.eu/digital-single-market/en/news/communication-artificial-intelligence-europe&lt;/a&gt; &lt;a href=&quot;#fnref:17&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:18&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.economist.com/business/2018/09/20/can-the-eu-become-another-ai-superpower&quot;&gt;https://www.economist.com/business/2018/09/20/can-the-eu-become-another-ai-superpower&lt;/a&gt; &lt;a href=&quot;#fnref:18&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:19&quot;&gt;
+      &lt;p&gt;Allcott, H., &amp;amp; Gentzkow, M. (2017). Social media and fake news in the 2016 election. Journal of Economic Perspectives, 31(2), 211–236. https://doi.org/10.1257/jep.31.2.211 &lt;a href=&quot;#fnref:19&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:20&quot;&gt;
+      &lt;p&gt;Mazarr, M., Casey, A., Demus, A., Harold, S., Matthews, L., Beauchamp-Mustafaga, N., &amp;amp; Sladden, J. (2019). Hostile Social Manipulation: Present Realities and Emerging Trends. &lt;a href=&quot;https://www.google.com/url?q=https://doi.org/10.7249/rr2713&amp;amp;sa=D&amp;amp;ust=1576773540278000&quot;&gt;https://doi.org/10.7249/rr2713&lt;/a&gt; &lt;a href=&quot;#fnref:20&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:21&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://securingdemocracy.gmfus.org/david-salvo-on-the-ongoing-threat-of-foreign-interference/&amp;amp;sa=D&amp;amp;ust=1576773540279000&quot;&gt;https://securingdemocracy.gmfus.org/david-salvo-on-the-ongoing-threat-of-foreign-interference/&lt;/a&gt; &lt;a href=&quot;#fnref:21&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:22&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/12/05/opinion/digital-technology-brain.html&quot;&gt;https://www.nytimes.com/2019/12/05/opinion/digital-technology-brain.html&lt;/a&gt; &lt;a href=&quot;#fnref:22&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:23&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.foreignaffairs.com/articles/americas/2018-08-14/against-identity-politics-tribalism-francis-fukuyama&amp;amp;sa=D&amp;amp;ust=1576773540276000&quot;&gt;https://www.foreignaffairs.com/articles/americas/2018-08-14/against-identity-politics-tribalism-francis-fukuyama&lt;/a&gt; &lt;a href=&quot;#fnref:23&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:24&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/news/the-switch/wp/2018/04/11/ai-will-solve-facebooks-most-vexing-problems-mark-zuckerberg-says-just-dont-ask-when-or-how/&quot;&gt;https://www.washingtonpost.com/news/the-switch/wp/2018/04/11/ai-will-solve-facebooks-most-vexing-problems-mark-zuckerberg-says-just-dont-ask-when-or-how/&lt;/a&gt; &lt;a href=&quot;#fnref:24&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:25&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/05/17/technology/facebook-ai-schroepfer.html&quot;&gt;https://www.nytimes.com/2019/05/17/technology/facebook-ai-schroepfer.html&lt;/a&gt; &lt;a href=&quot;#fnref:25&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:26&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://thegradient.pub/is-deep-learning-the-future-of-medical-decision-making/&amp;amp;sa=D&amp;amp;ust=1576773540278000&quot;&gt;https://thegradient.pub/is-deep-learning-the-future-of-medical-decision-making/&lt;/a&gt; &lt;a href=&quot;#fnref:26&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:27&quot;&gt;
+      &lt;p&gt;Mazarr, M. J., Bauer, R. M., Casey, A., Heintz, S. A., &amp;amp; Matthews, L. J. (n.d.). The Emerging Risk of Virtual Societal Warfare. &lt;a href=&quot;#fnref:27&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:28&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.nytimes.com/2017/01/11/upshot/the-real-story-about-fake-news-is-partisanship.html&amp;amp;sa=D&amp;amp;ust=1576773540280000&quot;&gt;https://www.nytimes.com/2017/01/11/upshot/the-real-story-about-fake-news-is-partisanship.html&lt;/a&gt; &lt;a href=&quot;#fnref:28&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:29&quot;&gt;
+      &lt;p&gt;Mazarr, M., Casey, A., Demus, A., Harold, S., Matthews, L., Beauchamp-Mustafaga, N., &amp;amp; Sladden, J. (2019). Hostile Social Manipulation: Present Realities and Emerging Trends. &lt;a href=&quot;https://www.google.com/url?q=https://doi.org/10.7249/rr2713&amp;amp;sa=D&amp;amp;ust=1576773540280000&quot;&gt;https://doi.org/10.7249/rr2713&lt;/a&gt;. &lt;a href=&quot;#fnref:29&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:30&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://carnegieeurope.eu/2019/09/17/toward-new-eu-democracy-strategy-pub-79844&amp;amp;sa=D&amp;amp;ust=1576773540272000&quot;&gt;https://carnegieeurope.eu/2019/09/17/toward-new-eu-democracy-strategy-pub-79844&lt;/a&gt; &lt;a href=&quot;#fnref:30&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:31&quot;&gt;
+      &lt;p&gt;Centre for European Policy Studies, Strengthening the EU’s Cyber Defence Capabilities – Report of a CEPS Task Force, November 2018. &lt;a href=&quot;#fnref:31&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:32&quot;&gt;
+      &lt;p&gt;CIA. (2019). World Threat Assessment of the US Intelligence Community. Cia, 396(2), 1119–1131. &lt;a href=&quot;https://www.google.com/url?q=https://doi.org/10.1111/j.1365-2966.2009.14782&amp;amp;sa=D&amp;amp;ust=1576773540272000&quot;&gt;https://doi.org/10.1111/j.1365-2966.2009.14782&lt;/a&gt;. &lt;a href=&quot;#fnref:32&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:33&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.weforum.org/agenda/2019/11/we-must-bridge-the-gap-between-technology-and-policy-our-future-depends-on-it/&amp;amp;sa=D&amp;amp;ust=1576773540275000&quot;&gt;https://www.weforum.org/agenda/2019/11/we-must-bridge-the-gap-between-technology-and-policy-our-future-depends-on-it/&lt;/a&gt; &lt;a href=&quot;#fnref:33&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:34&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.darkreading.com/risk/authoritatively-who-was-behind-the-estonian-attacks/d/d-id/1130584&amp;amp;sa=D&amp;amp;ust=1576773540273000&quot;&gt;https://www.darkreading.com/risk/authoritatively-who-was-behind-the-estonian-attacks/d/d-id/1130584&lt;/a&gt; &lt;a href=&quot;#fnref:34&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:35&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.bbc.com/news/39655415&amp;amp;sa=D&amp;amp;ust=1576773540273000&quot;&gt;https://www.bbc.com/news/39655415&lt;/a&gt; &lt;a href=&quot;#fnref:35&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:36&quot;&gt;
+      &lt;p&gt;Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March). &lt;a href=&quot;#fnref:36&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:37&quot;&gt;
+      &lt;p&gt;Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March). &lt;a href=&quot;#fnref:37&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:38&quot;&gt;
+      &lt;p&gt;Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March). &lt;a href=&quot;#fnref:38&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:39&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.nytimes.com/2018/03/22/opinion/democracy-survive-data.html&amp;amp;sa=D&amp;amp;ust=1576773540282000&quot;&gt;https://www.nytimes.com/2018/03/22/opinion/democracy-survive-data.html&lt;/a&gt; &lt;a href=&quot;#fnref:39&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:40&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.ft.com/content/5c012980-84fd-11e8-a29d-73e3d454535d&amp;amp;sa=D&amp;amp;ust=1576773540283000&quot;&gt;https://www.ft.com/content/5c012980-84fd-11e8-a29d-73e3d454535d&lt;/a&gt; &lt;a href=&quot;#fnref:40&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:41&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.foreignaffairs.com/articles/europe/2018-08-13/regulate-liberate&amp;amp;sa=D&amp;amp;ust=1576773540281000&quot;&gt;https://www.foreignaffairs.com/articles/europe/2018-08-13/regulate-liberate&lt;/a&gt; &lt;a href=&quot;#fnref:41&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:42&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://hbr.org/2018/01/how-ai-could-help-the-public-sector&amp;amp;sa=D&amp;amp;ust=1576773540277000&quot;&gt;https://hbr.org/2018/01/how-ai-could-help-the-public-sector&lt;/a&gt; &lt;a href=&quot;#fnref:42&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:43&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.govtech.com/products/Is-Government-Ready-for-AI.html&amp;amp;sa=D&amp;amp;ust=1576773540281000&quot;&gt;https://www.govtech.com/products/Is-Government-Ready-for-AI.html&lt;/a&gt; &lt;a href=&quot;#fnref:43&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:44&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://www.weforum.org/agenda/2019/08/artificial-intelligence-government-public-sector/&amp;amp;sa=D&amp;amp;ust=1576773540277000&quot;&gt;https://www.weforum.org/agenda/2019/08/artificial-intelligence-government-public-sector/&lt;/a&gt; &lt;a href=&quot;#fnref:44&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:45&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.google.com/url?q=https://securingdemocracy.gmfus.org/countering-information-operations-demands-a-common-democratic-strategy/&amp;amp;sa=D&amp;amp;ust=1576773540282000&quot;&gt;https://securingdemocracy.gmfus.org/countering-information-operations-demands-a-common-democratic-strategy/&lt;/a&gt; &lt;a href=&quot;#fnref:45&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Michal Trzesimiech</name></author><summary type="html">The future of Europe is written across its fragmented datasets. Eighty-nine percent of European households use and produce data while on the Internet1, most on a daily basis2. Putting that to good use is among the most ambitious challenges of our age. Coming to agree on what’s “good” is the role of a technology that’s long under construction—democracy itself. https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals &amp;#8617; https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals &amp;#8617;</summary></entry></feed>
