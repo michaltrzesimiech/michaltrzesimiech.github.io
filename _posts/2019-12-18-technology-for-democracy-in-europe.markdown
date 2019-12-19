@@ -99,52 +99,46 @@ What’s bad about this is that we seem to be missing out on a number of opportu
 Perhaps it’s the potential to engage and communicate with citizens that’s put to waste most visibly. The power of Tweeter as used by the people in power, is obvious. But how many stories we miss by not hearing the other end of President Trump’s tweets at scale? Mining social media for sentiment and opinion gives hope to shorten feedback loops like never before. It’s just a single example of how present-day technology could aim to strengthen democracy. We’re paying too little attention to that.
 
 
+So what’s holding Europe back? Looking through some of the information published in the last few years, most of the reasons seem to fall into these four broad categories:
 
-​    So what’s holding Europe back? Looking through some of the information published in the last few years, most of the reasons seem to fall into these four broad categories:
-
-
+<br>
 
 - **Fragmented regulatory environment and the lack of single market**
 
-
-
-​    While the data stores are scattered across multiple jurisdictions, the myriad of rules and regulations limits entrepreneurial efforts (and weakens Europe’s defense against cyber threats).
+	While the data stores are scattered across multiple jurisdictions, the myriad of rules and regulations limits entrepreneurial efforts (and weakens Europe’s defense against cyber threats).
 
 
 
 - **Unfriendly infrastructure and procurement processes**
 
-
-
-Legacy software and painfully inefficient paperwork act as a powerful deterrent to entrepreneurs. The processing pace is promised to go up along with automation. As long-term software contracts expire, a window of opportunity opens to modern architectures.
+	Legacy software and painfully inefficient paperwork act as a powerful deterrent to entrepreneurs. The processing pace is promised to go up along with automation. As long-term software contracts expire, a window of opportunity opens to modern architectures.
 
 
 
 - **Institutional inertia and/or bad allocation of funds**
 
-
-
-It’s the very data analysis tools that could inform better decisions on the allocation of public funds.
+	It’s the very data analysis tools that could inform better decisions on the allocation of public funds.
 
 
 
 - **Lack of statistical awareness and tool experience among analysts**[^44]
 
+	Thanks to the practice of human-centered design and current-day approach to data visualisation, stats tools are increasingly more accessible to users without prior experience or advanced training.
 
+<br>
 
-Thanks to the practice of human-centered design and current-day approach to data visualisation, stats tools are increasingly more accessible to users without prior experience or advanced training.
-
-
-<br><br>
-It's striking that most of these reasons lie well beyond the causative power of outside technologists. Or, rather: mostly within their powers as regular citizens, as citizens should demand that the rulers are somewhat resourceful in ruling the ruled. Citizens should expect that technology, which brought Europe unicorns like TransferWise and Bolt, will bring a similar level of service in doing business with governments.
+It comes to mind that these lie beyond the causative power of individual citizens and technologists, but, perhaps, not beyond that of civil society. Citizens should expect that technology, which brought Europe unicorns like TransferWise and Bolt, will bring a similar level of service in doing business with governments.
 
 Similarly, citizens should expect technologists to further democratize technology, so that it can be used _democratically_, to bridge the gap between everyday people and the technocratic elites. When the barrier to entry is lowered, what is expected to follow is more digital skills and awareness. The more public awareness and media literacy we get, the safer we are, and the more sense of empowerment we’re able to share as European citizens.
 
 We need technology to give us a sense of renewed strength in the decades to come, and to give us a strong, democratic narrative to counter the spread of digital authoritarianism. We need a “common democratic strategy”[^45] to help democracies to learn from one another about effective approaches to face the emerging threats. We need to get technologists and policy-makers closer together, for the sake of our security and welfare, and for the sake of mature, sustainable development.
 
-
 <br><br>
-**References**
+
+
+--------------
+
+## References
 
 [^1]: [https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals](https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&sa=D&ust=1576773540265000)
 [^2]: [https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals](https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals%23Internet_usage&sa=D&ust=1576773540262000)
