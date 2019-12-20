@@ -28,6 +28,9 @@ url: "https://michaltrzesimiech.github.io/" # the base hostname & protocol for y
 #github_username:  michaltrzesimiech
 linkedin_username:  trzesimiech
 
+# Google Analytics
+google_analtyics: UA-154894110-1
+
 # Build settings
 theme: minima
 plugins:
