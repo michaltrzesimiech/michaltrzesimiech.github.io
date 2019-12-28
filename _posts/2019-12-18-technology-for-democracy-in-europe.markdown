@@ -62,7 +62,7 @@ Three years after the feral 2016, it’s ever harder to find truth in an increas
 
 
 
-As the discussion shifts towards truth decay and attacks on electoral integrity[^30], it’s important to remember that beyond these ails lay many more within the connected domains of AI governance and the increasingly militarised and weaponised[^31] [^32] cybersecurity.
+As the discussion shifts towards truth decay and attacks on electoral integrity[^30], it’s important to remember that beyond these ails lay many more within the connected domains of AI governance and the increasingly <a href="https://www.ecfr.eu/publications/summary/not_smart_enough_poverty_european_military_thinking_artificial_intelligence" target="_blank">militarised</a> and weaponised[^31] [^32] cybersecurity.
 
 In the words of Bruce Schneier, cybersecurity expert and privacy specialist: “Technology is now deeply intertwined with policy. We're building complex socio-technical systems at all levels of our society. Software constrains behaviour with an efficiency that no law can match. It's all changing fast; technology is literally creating the world we all live in, and policymakers can’t keep up. Getting it wrong has become increasingly catastrophic. Surviving the future depends on bringing technologists and policymakers together.”[^33]
 
