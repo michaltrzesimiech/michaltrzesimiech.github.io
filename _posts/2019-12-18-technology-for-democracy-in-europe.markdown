@@ -136,15 +136,15 @@ We need technology to give us a sense of renewed strength in the decades to come
 
 ## References
 
-[^1]: [https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals](https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&sa=D&ust=1576773540265000)
-[^2]: [https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals](https://www.google.com/url?q=https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals%23Internet_usage&sa=D&ust=1576773540262000)
+[^1]: [https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals](https://ec.europa.eu/eurostat/statistics-explained/index.php/Digital_economy_and_society_statistics_-_households_and_individuals&sa=D&ust=1576773540265000)
+[^2]: Ibid.
 [^3]: This comparison was used before in Andrew Ng’s 2016 speech at Stanford MSx Future Forum.
 [^4]: [https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artificial-intelligence](https://www.google.com/url?q=https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artificial-intelligence&sa=D&ust=1576773540262000)
 [^5]: [https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai](https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&sa=D&ust=1576773540266000)
 [^6]: defined as weighted deployment of digital assets, labor, and practices across all sectors, compared with the most digitized sector
 [^7]: [https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai](https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&sa=D&ust=1576773540267000)
-[^8]: [https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai](https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai&sa=D&ust=1576773540271000)
-[^9]: [https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai](https://www.google.com/url?q=https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-digital-and-ai%23part3&sa=D&ust=1576773540270000)
+[^8]: Ibid.
+[^9]: Ibid.
 [^10]: [https://www.politico.eu/article/finland-one-percent-ai-artificial-intelligence-courses-learning-training/](https://www.google.com/url?q=https://www.politico.eu/article/finland-one-percent-ai-artificial-intelligence-courses-learning-training/&sa=D&ust=1576773540268000)
 [^11]: [https://eng.em.dk/media/10566/digital-growth-strategy-report_uk_web-2.pdf](https://eng.em.dk/media/10566/digital-growth-strategy-report_uk_web-2.pdf)
 [^12]: [https://ia.italia.it/assets/whitepaper.pdf](https://ia.italia.it/assets/whitepaper.pdf)
@@ -171,9 +171,9 @@ We need technology to give us a sense of renewed strength in the decades to come
 [^33]: [https://www.weforum.org/agenda/2019/11/we-must-bridge-the-gap-between-technology-and-policy-our-future-depends-on-it/](https://www.google.com/url?q=https://www.weforum.org/agenda/2019/11/we-must-bridge-the-gap-between-technology-and-policy-our-future-depends-on-it/&sa=D&ust=1576773540275000)
 [^34]: [https://www.darkreading.com/risk/authoritatively-who-was-behind-the-estonian-attacks/d/d-id/1130584](https://www.google.com/url?q=https://www.darkreading.com/risk/authoritatively-who-was-behind-the-estonian-attacks/d/d-id/1130584&sa=D&ust=1576773540273000)
 [^35]: [https://www.bbc.com/news/39655415](https://www.google.com/url?q=https://www.bbc.com/news/39655415&sa=D&ust=1576773540273000)
-[^36]: Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March).
-[^37]: Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March).
-[^38]: Paper, B. (2019). 2019 Challenges to effective EU cybersecurity policy. (March).
+[^36]: European Court of Auditors, “Challenges to effective EU cybersecurity policy”, accessed December 18, 2019, [https://www.eca.europa.eu/Lists/ECADocuments/BRP_CYBERSECURITY/BRP_CYBERSECURITY_EN.pdf](https://www.eca.europa.eu/Lists/ECADocuments/BRP_CYBERSECURITY/BRP_CYBERSECURITY_EN.pdf)
+[^37]: Ibid.
+[^38]: Ibid.
 [^39]: [https://www.nytimes.com/2018/03/22/opinion/democracy-survive-data.html](https://www.google.com/url?q=https://www.nytimes.com/2018/03/22/opinion/democracy-survive-data.html&sa=D&ust=1576773540282000)
 [^40]: [https://www.ft.com/content/5c012980-84fd-11e8-a29d-73e3d454535d](https://www.google.com/url?q=https://www.ft.com/content/5c012980-84fd-11e8-a29d-73e3d454535d&sa=D&ust=1576773540283000)
 [^41]: [https://www.foreignaffairs.com/articles/europe/2018-08-13/regulate-liberate](https://www.google.com/url?q=https://www.foreignaffairs.com/articles/europe/2018-08-13/regulate-liberate&sa=D&ust=1576773540281000)
