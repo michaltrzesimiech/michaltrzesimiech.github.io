@@ -31,11 +31,7 @@ One of the many needs of this emerging ecosystem is that of cooperation on the i
 
 
 
-To illustrate: as France, a party to that failed project, invests 1.5 billion euro in AI over the next five years, China’s ambition is to invest as much as 150 billion dollars by 2030.
-
-
-
-And its idea of what’s good use of data is different than European.
+To illustrate: as France, a party to that failed project, invests 1.5 billion euro in AI over the next five years, China’s ambition is to invest as much as 150 billion dollars by 2030. And its idea of what’s good use of data is different than democratic.
 
 
 
